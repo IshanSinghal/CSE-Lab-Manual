@@ -19,7 +19,15 @@ All the codes in this repo are inspired from the Autonomous curriculum of Dayana
 
 3. IV Semester
     * [Design and Analysis of Algorithm Lab](/IV%20Semester/ADA_Lab)
-    * [Microprocessor Lab](/IV%20Semester/Microprocessor_Lab)
+    * [Microprocessor and Microcontroller Lab](/IV%20Semester/Microprocessor_and_Microcontroller_Lab)
+
+4. V Semester
+    * [Database Management System Lab](/V%20Semester/Database-Management-System)
+    * [Computer Networks Lab](/V%20Semester/Computer-Networks)
+
+5. VI Semester
+    * [Internet and Web Technologies Lab](/VI%20Semester/Internet-and-Web-Technologies)
+    * [Computer Graphics Lab](/VI%20Semester/Computer-Graphics)
 
 
 ## Contributors
@@ -27,7 +35,7 @@ All the codes in this repo are inspired from the Autonomous curriculum of Dayana
 2. Siddharth Singh ([GitHub](https://github.com/cddharthsingh))
 3. Rewant Soni ([GitHub](https://github.com/rewantsoni))
 4. Mohammad Ataaur Rahman ([Github](https://github.com/Ataago))
-5. Akshaj Jain ([GitHub](https://github.com/aksj98))
+5. Anush DP ([GitHub](https://github.com/Anush-DP))
 
 *Disclaimer: We may have changed some of the codes for better functionality.*
 
